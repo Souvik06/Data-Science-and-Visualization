@@ -3,7 +3,7 @@
 
 ## Features
 
-- Fundamentals on Data Science
+- Fundamentals on Python & Data Science
 - Projects on Python
 - Projects on Power BI
 - Source Files (i.e., data excels)
